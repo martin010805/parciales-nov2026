@@ -2,7 +2,7 @@
 # Parcial 1 - Construcción de Software
 
 **Estudiante:** Martin Eduardo Cristancho Salazar  
-**Programa:** Producción de Contenidos Interactivos
+**Programa:** Ingenieria de Software
 
 En este repositorio se encuentra el desarrollo del primer parcial de Construcción de Software. Incluye las respuestas a las preguntas, las explicaciones correspondientes y los archivos de código utilizados para resolver los ejercicios.
 
