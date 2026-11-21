@@ -2,7 +2,11 @@
 # Parcial 1 - Construcción de Software
 
 **Estudiante:** Martin Eduardo Cristancho Salazar  
+<<<<<<< HEAD
 **Programa:** Ingenieria de Software
+=======
+**Programa:** Ingeniería de Software
+>>>>>>> a9845cf (Corregir programa academico a Ingenieria de Software)
 
 En este repositorio se encuentra el desarrollo del primer parcial de Construcción de Software. Incluye las respuestas a las preguntas, las explicaciones correspondientes y los archivos de código utilizados para resolver los ejercicios.
 
